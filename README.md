@@ -58,7 +58,7 @@ The purpose of this tutorial is to create a Swift framework from the same source
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26511005/438fcbee-4260-11e7-9c06-db1b8eeef13f.png)
 
-You should have this this screen
+You should have this screen
 ![image](https://cloud.githubusercontent.com/assets/1082222/26509670/1604bd02-425a-11e7-915f-4e11affbfb2d.png)
 
 ## Add targets
@@ -82,7 +82,7 @@ We must add a target for each platform
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26511331/db67b854-4261-11e7-8dd7-a0b718158f89.png)
 
-You should have this this screen
+You should have this screen
 ![image](https://cloud.githubusercontent.com/assets/1082222/26511421/42113968-4262-11e7-80c2-248e9d9e6431.png)
 
 ### Target watchOS
@@ -102,7 +102,7 @@ You should have this this screen
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26511774/ca213212-4263-11e7-9c14-b5a0e2f390bf.png)
 
-You should have this this screen
+You should have this screen
 ![image](https://cloud.githubusercontent.com/assets/1082222/26511838/0a70e8ee-4264-11e7-9f39-ed9494308eb7.png)
 
 ### Target tvOS
@@ -122,7 +122,7 @@ You should have this this screen
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512096/3fe8d332-4265-11e7-9c1f-25086bcf1a02.png)
 
-You should have this this screen
+You should have this screen
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512123/6d574074-4265-11e7-870c-5fdf60242695.png)
 
 ### Target macOS
@@ -142,7 +142,7 @@ You should have this this screen
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512402/ace38a94-4266-11e7-97d0-2530f1901286.png)
 
-You should have this this screen
+You should have this screen
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512431/d4d37910-4266-11e7-99a9-102e3c9e7815.png)
 
 ## Add "Sources" folder 
