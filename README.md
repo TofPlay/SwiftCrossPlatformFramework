@@ -1,5 +1,40 @@
 # Swift Cross Platform framework
 
+---
+
+## Table of contents
+
+* [Introduction](#introduction)
+* [Create an empty project](#create-an-empty-project)
+* [Add targets](#add-targets)
+  * [Target iOS](#target-ios)
+  * [Target watchOS](#target-watchos)
+  * [Target tvOS](#target-tvos)
+  * [Target macOS](#target-macos)
+* [Add "Sources" folder](#add-sources-folder)
+* [Rename "info.plist"](#rename-infoplist)
+  * [Info.plist for iOS](#infoplist-for-ios)
+  * [Info.plist for watchOS](#infoplist-for-watchos)
+  * [Info.plist for tvOS](#infoplist-for-tvos)
+  * [Info.plist for macOS](#infoplist-for-macos)
+* [Move all plist on "Sources" folder](#move-all-plist-on-sources-folder)
+* [Update "Build Settings"](#update-build-settings)
+  * [Set the product name](#set-the-product-name)
+  * [Apply Product Name for all targets](#apply-product-name-for-all-targets)
+* [Update packaging](#update-packaging)
+  * [For iOS target](#for-ios-target)
+  * [For watchOS target](#for-watchos-target)
+  * [For tvOS target](#for-tvos-target)
+  * [For macOS target](#for-macos-target)
+* [One header file for all targets](#one-header-file-for-all-targets)
+  * [Change header file](#change-header-file)
+  * [Move header file to "Sources"](#move-header-file-to-sources)
+  * [Update project](#update-project)
+* [Add class for all platforms](#add-class-for-all-platforms)
+* [Configure targets for Carthage](#configure-targets-for-carthage)
+* [Configure project for SwiftPM](#configure-project-for-swiftpm)
+
+---
 
 ## Introduction
 
