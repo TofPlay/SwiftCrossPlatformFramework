@@ -1,4 +1,4 @@
-# Swift Cross Platform framework
+# Swift Cross Platform Framework
 
 ---
 
