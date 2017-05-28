@@ -38,7 +38,7 @@
 
 ## Introduction
 
-The purpose of this tutorial is to create a *Swift Cross-Platform framework* from the same sources for macOS, iOS, watchOS and tvOS platforms and use them in a project via Carthage. It will be also ready for SwiftPM.
+The purpose of this tutorial is to create a **Swift Cross-Platform framework** from the same sources for macOS, iOS, watchOS and tvOS platforms and use them in a project via Carthage. It will be also ready for SwiftPM.
 
 ## Create an empty project
 
