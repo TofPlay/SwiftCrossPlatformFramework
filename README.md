@@ -117,7 +117,7 @@ You should have this screen
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512004/c8552924-4264-11e7-9d0e-44a0f5c9a7e8.png)
 
-1. Enter the project name `Template watchOS` (replace `Template` by your framework name). Don't forget `watchOS` it's important!
+1. Enter the project name `Template tvOS` (replace `Template` by your framework name). Don't forget `tvOS` it's important!
 2. Click on `Next`
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26512096/3fe8d332-4265-11e7-9c1f-25086bcf1a02.png)
