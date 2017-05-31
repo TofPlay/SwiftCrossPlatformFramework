@@ -302,7 +302,7 @@ Select all plist and click on `Add`. Be careful don't check a target.
 ![image](https://cloud.githubusercontent.com/assets/1082222/26519048/d755fcd0-42bb-11e7-8361-d2c66ba75dfd.png)
 
 1. Select `macOS`
-2. Select `Swfit File`
+2. Select `Swift File`
 3. Click `Next` button
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26519090/5fb6e530-42bc-11e7-991b-9f0eee7cf083.png)
@@ -333,7 +333,7 @@ Your first class cross platform:
 ![image](https://cloud.githubusercontent.com/assets/1082222/26519283/eae645ea-42be-11e7-8c43-c70f0171ff0d.png)
 
 1. Select `macOS`
-2. Select `Swfit File`
+2. Select `Swift File`
 3. Click `Next` button
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26519311/50d5eb08-42bf-11e7-83c7-a3cbfff38676.png)
