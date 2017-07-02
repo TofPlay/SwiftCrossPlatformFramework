@@ -5,6 +5,7 @@
 ## Table of contents
 
 * [Introduction](#introduction)
+* [Use XcodeTool](#use-xcodetool)
 * [Create an empty project](#create-an-empty-project)
 * [Add targets](#add-targets)
   * [Target iOS](#target-ios)
