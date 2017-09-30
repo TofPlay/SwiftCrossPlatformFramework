@@ -351,15 +351,32 @@ Your first class cross platform:
 4. On the `Package.swift` enter:
 
 ```swift
-// swift-tools-version:3.1
-
+// swift-tools-version:4.0
+// The swift-tools-version declares the minimum version of Swift required to build this package.
 import PackageDescription
 
 let package = Package(
-    name: "Template"
+    name: "Template",
+    products: [
+        // Products define the executables and libraries produced by a package, and make them visible to other packages.
+        .library(
+            name: "Template",
+            targets: ["Template"]),
+    ],
+    dependencies: [
+        // Dependencies declare other packages that this package depends on.
+        // .package(url: /* package url */, from: "1.0.0"),
+    ],
+    targets: [
+        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
+        // Targets can depend on other targets in this package, and on products in packages which this package depends on.
+        .target(
+            name: "Template",
+            dependencies: [])
+    ]
 )
 ```
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26519345/eb672e3e-42bf-11e7-9acc-e04918478bb0.png)
 
-![image](https://cloud.githubusercontent.com/assets/1082222/26519375/7e82e26c-42c0-11e7-9bc0-de752f80f556.png)
+![image](https://user-images.githubusercontent.com/1082222/31048685-c2124be2-a622-11e7-8c82-813ceaea0017.png)
