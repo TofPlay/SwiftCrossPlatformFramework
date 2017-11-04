@@ -43,9 +43,7 @@ The purpose of this tutorial is to create a **Swift Cross-Platform framework** f
 
 ## Use XcodeTool
 
-You can follow this tutorial or just use [XcodeTool](https://github.com/TofPlay/XcodeTool) 
-
-Check the section: [Create a new component cross-platform](https://github.com/TofPlay/XcodeTool#create-a-new-component-cross-platform)
+You can follow this tutorial or just use [XcodeTool](https://github.com/TofPlay/XcodeTool) and look at the section: [Create a new component cross-platform](https://github.com/TofPlay/XcodeTool#create-a-new-component-cross-platform)
 
 ## Create an empty project
 
