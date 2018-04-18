@@ -257,8 +257,8 @@ Select all plist and click on `Add`. Be careful don't check a target.
 
 ### For macOS target
 
-1. Select `Template tvOS` target
-2. Set property `info.plist File` to `Sources/info-tvOS.plist`
+1. Select `Template macOS` target
+2. Set property `info.plist File` to `Sources/info-macOS.plist`
 3. Set property `Product Bundle Identifier` to `com.<your company>.$(PROJECT_NAME)`
 
 ![image](https://cloud.githubusercontent.com/assets/1082222/26514390/ba6a2aaa-4271-11e7-8ba9-7288bd599c38.png)
