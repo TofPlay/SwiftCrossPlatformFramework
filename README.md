@@ -1,9 +1,9 @@
 # Swift Cross Platform Framework
 ![swift cross platform framework](https://cloud.githubusercontent.com/assets/1082222/26555993/3830e848-4498-11e7-8fa6-a6689ac7365f.png)
----
 
 ## Table of contents
 
+* [See also](#see-also)
 * [Introduction](#introduction)
 * [Use XcodeTool](#use-xcodetool)
 * [Create an empty project](#create-an-empty-project)
@@ -34,6 +34,19 @@
 * [Add class for all platforms](#add-class-for-all-platforms)
 * [Configure targets for Carthage](#configure-targets-for-carthage)
 * [Configure project for SwiftPM](#configure-project-for-swiftpm)
+
+---
+
+## See also
+* macOS and iOS
+  * Projects
+    * [TCDN macOS client](https://gitlab.com/tofprjs/macos-and-ios/projects/TCDN) (SwiftUI 2) for TCDN Service 
+  * Packages
+    * [TNetwork](https://gitlab.com/tofprjs/macos-and-ios/packages/TNetwork) Simple, lightweight and robust network micro-framework
+    * [TStorage](https://gitlab.com/tofprjs/macos-and-ios/packages/TStorage) The SQLite micro-framework for Swift
+* Backend
+  * Services
+    * [TCDN Service](https://gitlab.com/tofprjs/backend/services/tcdn) (Vapor 4) Manage your own CDN with TCDN
 
 ---
 
